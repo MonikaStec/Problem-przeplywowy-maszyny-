@@ -1,2 +1,2 @@
 # Problem-przeplywowy-maszyny-
-Przydziela zadania maszynom w problemie przeplywowym
+Przydziela zadania maszynom w problemie przeplywowym (NEH)
